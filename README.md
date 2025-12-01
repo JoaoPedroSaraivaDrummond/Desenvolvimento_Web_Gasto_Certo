@@ -131,6 +131,7 @@ WEB/
     └── package.json
 ```
 
+
 ## 🛠️ Scripts Disponíveis
 
 ### Backend
