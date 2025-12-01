@@ -2,7 +2,6 @@
 
 Aplicação de controle financeiro pessoal com React (frontend) e Node.js + Express (backend), utilizando Supabase como banco de dados.
 
-
 ## 📋 Pré-requisitos
 
 - Node.js 18+ instalado
